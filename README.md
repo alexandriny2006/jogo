@@ -3,7 +3,7 @@
 Jogo em primeira pessoa, no estilo Minecraft, para treinar os termos de Arquitetura Computacional.
 Feito com HTML, CSS e JavaScript puros.
 
-**Site publicado:** https://SEU-USUARIO.github.io/arqcomp-cruzadinha/
+**Site publicado:**  https://github.com/alexandriny2006/jogo
 
 ## Como jogar
 
